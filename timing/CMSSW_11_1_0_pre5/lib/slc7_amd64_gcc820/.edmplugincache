@@ -1,0 +1,12 @@
+pluginJMEAnalysisJetToolboxAuto.so JetTester CMS%EDM%Framework%Module
+pluginJMEAnalysisJetToolboxAuto.so JetTester CMS%EDM%Framework%ParameterSet%Description
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficiencies CMS%EDM%Framework%Module
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficiencies CMS%EDM%Framework%ParameterSet%Description
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficienciesfromMenuGen CMS%EDM%Framework%Module
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficienciesfromMenuGen CMS%EDM%Framework%ParameterSet%Description
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficienciesfromMenuReco CMS%EDM%Framework%Module
+pluginPUHLTPUmitigationatHLTAuto.so TriggerEfficienciesfromMenuReco CMS%EDM%Framework%ParameterSet%Description
+pluginPUHLTPUmitigationatHLTAuto.so TriggerResponses CMS%EDM%Framework%Module
+pluginPUHLTPUmitigationatHLTAuto.so TriggerResponses CMS%EDM%Framework%ParameterSet%Description
+pluginPUHLTPUmitigationatHLTAuto.so vertexAnalyzer CMS%EDM%Framework%Module
+pluginPUHLTPUmitigationatHLTAuto.so vertexAnalyzer CMS%EDM%Framework%ParameterSet%Description

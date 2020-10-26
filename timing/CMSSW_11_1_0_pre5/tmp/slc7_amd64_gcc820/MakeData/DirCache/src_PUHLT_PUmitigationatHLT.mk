@@ -1,0 +1,2 @@
+ALL_PACKAGES += PUHLT/PUmitigationatHLT
+subdirs_src_PUHLT_PUmitigationatHLT := src_PUHLT_PUmitigationatHLT_interface src_PUHLT_PUmitigationatHLT_plugins src_PUHLT_PUmitigationatHLT_python src_PUHLT_PUmitigationatHLT_test

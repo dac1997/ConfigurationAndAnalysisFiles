@@ -1,0 +1,1 @@
+hltGetConfiguration /users/sharper/2019/alca/alcaLumi_2018_111XHLTV3/V2 --globaltag auto:run2_hlt_GRun --input myroot.root --data --process TIMING --full --offline --max-events 30000 --output none --timing --prescale 2.0e34+ZB+HLTPhysics
